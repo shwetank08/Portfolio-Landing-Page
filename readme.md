@@ -12,7 +12,7 @@ This is a portfolio landing page page designed using HTML AND CSS.
 ---
 The portfolio landing page image was provided aim was to replicate the website.
 
-![Image](Asset\15.png)
+Please refer 15.png file in asset.
 
 
 *This project took me around 3-4 hours to complete.*
