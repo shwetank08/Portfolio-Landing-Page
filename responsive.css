@@ -1,0 +1,145 @@
+@media screen and (max-width: 1300px) {
+  [alt="logo"] {
+    margin: 1.5rem 0rem;
+    width: 6rem;
+  }
+  .navbar{
+    justify-content: center;
+  }
+  .navitems {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 2rem 0;
+    margin-left: 4vw;
+  }
+  select {
+    font-family: Montserrat;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border: none;
+    background: none;
+    color: #ffffff;
+  }
+  .list-item {
+    color: #ffffff;
+    padding: 0rem 2rem;
+    font-family: Montserrat;
+    font-size: 0.8rem;
+    /* width: 6rem; */
+  }
+  [alt="hero"] {
+    width: 35vw;
+  }
+  .intro {
+    /* margin: 2rem 2rem; */
+
+    font-size: 1rem;
+  }
+  .intro button {
+    color: #ffffff;
+    background-color: #c91b28;
+    width: 20vw;
+    margin-top: 2rem;
+    padding: 1em 0.5rem;
+    font-size: 15px;
+    font-style: bold;
+  }
+  .intro-item {
+    padding: 0.5rem 0rem;
+  }
+}
+
+@media screen and (max-width: 1030px) {
+  .navitems {
+    visibility: hidden;
+  }
+  .navbar{
+    justify-content: center;
+    align-items: center;
+  }
+  [alt="logo"]{
+    margin: auto auto;
+  }
+  [alt="hero"] {
+    width: 100%;
+  }
+  .header-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .intro {
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0rem;
+  }
+  .intro button {
+    margin-top: 1rem;
+  }
+  .card-part {
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    margin: 4rem 2rem;
+    padding: 4rem 2rem;
+  }
+  .card-2 {
+    flex-direction: column;
+    align-items: center;
+  }
+  .text-part h1 {
+    font-size: 80px;
+  }
+  .text-part h3 {
+    font-size: 20px;
+  }
+  .smallcard {
+    font-size: 15px;
+    width: 15vw;
+  }
+  .fp-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    padding: 4rem 2rem;
+  }
+  .fp-header h1 {
+    font-size: 25px;
+  }
+  .fp-header p {
+    font-size: 10px;
+  }
+  .h-right button{
+    font-size:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 0.5rem;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+  }
+  .project{
+    margin: 2rem 0rem;
+    padding: 2rem 0rem;
+  }
+  .contactbox{
+    flex-direction: column;
+    align-items: center;
+  }
+  .bottom-nav{
+    flex-wrap: wrap;
+  }
+  .left h1{
+    font-size: 25px;
+  }
+  .left p{
+    font-size:18px;
+  }
+}
