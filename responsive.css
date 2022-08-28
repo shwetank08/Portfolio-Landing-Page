@@ -53,6 +53,7 @@
 @media screen and (max-width: 1030px) {
   .navitems {
     visibility: hidden;
+    display: none;
   }
   .navbar{
     justify-content: center;
