@@ -70,9 +70,11 @@ select{
     padding: 1.5rem 1rem;
     font-size: 25px;
     font-style: bold;
+    border: none;
 }
 .intro-item{
     padding: .5rem 0rem;
+    flex-wrap: wrap;
 }
 .experience{
     background: linear-gradient(90deg, #181818 50%, #111111 50%);
@@ -203,6 +205,7 @@ select{
     width: 200px;
     height: 60px;
     cursor: pointer;
+    border: none;
 }
 [alt="project1"]{
     width: 100%;
