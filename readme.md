@@ -6,11 +6,11 @@
 
 ## Description
 
-This is a portfolio landing page page designed using HTML AND CSS. 
+    - This is a portfolio landing page page designed using HTML AND CSS. 
 
-## Objective
+## Deployed Link
 
-The portfolio landing page image was provided aim was to replicate the website.
+[Link](https://shwetank-portfoliolandingpage.netlify.app/)
 
 ## ScreenShot
 
